@@ -203,7 +203,7 @@ button {
 }
 .submit:disabled {
   opacity: 0.2;
-  cursor: wait;
+  cursor: not-allowed;
 }
 .submit:hover {
   background-color: rgb(56, 90, 194);
